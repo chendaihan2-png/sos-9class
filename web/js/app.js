@@ -14,7 +14,7 @@
       bg: 'assets/images/1.jpg',
       align: 'center',
       title: '救命',
-      subtitle: '救我被9班同学包围了',
+      subtitle: '我被9班同学包围了',
       buttonText: '点击开始游戏',
       buttonClass: 'btn-start',
       next: 1
