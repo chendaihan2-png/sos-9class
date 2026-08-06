@@ -13,7 +13,7 @@ struct Index {
         .borderRadius(10)
         .fontColor(Color.White)
         .padding(10)
-      Text("救我被9班同学包围了")
+      Text("我被9班同学包围了")
         .fontSize(50)
         .borderRadius(10)
         .fontColor(Color.White)
